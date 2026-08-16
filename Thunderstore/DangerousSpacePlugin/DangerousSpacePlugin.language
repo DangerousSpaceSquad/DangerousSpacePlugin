@@ -1,0 +1,8 @@
+{
+  "strings": {
+    "EXAMPLE_CLOAKONKILL_NAME": "Cuthroat's Garb",
+    "EXAMPLE_CLOAKONKILL_PICKUP": "Chance to cloak on kill",
+    "EXAMPLE_CLOAKONKILL_DESC": "Whenever you <style=cIsDamage>kill an enemy</style>, you have a <style=cIsUtility>50%</style> chance to cloak for <style=cIsUtility>4s</style> <style=cStack>(+1s per stack)</style>.",
+    "EXAMPLE_CLOAKONKILL_LORE": "Those who visit in the night are either praying for a favour, or preying on a neighbour."
+  }
+}
